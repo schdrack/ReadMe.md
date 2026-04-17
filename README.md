@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muragijimana Schadrack</h1>
-<h3 align="center">🚀 Full-Stack Software Developer from Rwanda</h3>
+<h3 align="center">🚀 Full-Stack Software Developer | Founder of Infinitymura Digital Academy</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;React+%7C+Node+%7C+Laravel;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;React+%7C+Node+%7C+Laravel;Founder+of+Infinitymura+Digital+Academy;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=550&height=45">
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 💻 I build full-stack web applications  
+- 💻 Passionate Full-Stack Developer  
+- 🏫 Founder of **Infinitymura Digital Academy**  
 - 🌱 Currently learning **Advanced Backend & System Design**  
-- 🎯 Goal: Become a **Professional Software Engineer**  
-- 📍 Location: Musanze, Rwanda  
+- 🎯 Goal: Become a **High-Level Software Engineer**  
+- 📍 Based in Musanze, Rwanda  
 
 ---
 
@@ -43,6 +44,17 @@
 
 ---
 
+## 🏢 My Brand
+
+### 🌐 Infinitymura Digital Academy
+> Empowering Digital Skills for the Future 🚀
+
+- 📚 Software Development Training  
+- 💻 Real-world Project Practice  
+- 🎯 Helping beginners become developers  
+
+---
+
 ## 📂 Featured Projects
 
 ✨ **Secretary Management System**  
@@ -57,7 +69,7 @@
 
 ✨ **Pre-Drive Exam Platform**  
 - Online test system  
-- Payment verification workflow  
+- Payment workflow system  
 - Laravel  
 
 ---
@@ -65,8 +77,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schdrack&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=schdrack&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=schadrack&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=schadrack&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -74,7 +86,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schdrack&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schadrack&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -82,18 +94,22 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href=" https://infinitymura.netlify.app"><img src="https://img.shields.io/badge/Phone-%2B250791767725-green?style=for-the-badge"></a>
-  <a href="https://infinitymura.netlify.app"><img src="https://img.shields.io/badge/Email-your--email%40example.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="tel:+250791767725">
+    <img src="https://img.shields.io/badge/Phone-0791767725-green?style=for-the-badge"/>
+  </a>
+  <a href="mailto:muragijimanaschadrack183@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muragijimanaschadrack183%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 *Consistency beats talent when talent doesn’t work hard.*
+💡 *Consistency and practice are the keys to becoming a great developer.*
 
 ---
 
-## ⭐ Support Me
+## ⭐ Support
 
 If you like my work, give ⭐ to my repositories and follow me 🚀
