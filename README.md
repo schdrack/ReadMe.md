@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=schdrack&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=schdrack&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schdrack&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -82,8 +82,8 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Phone-%2B250XXXXXXXXX-green?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-your--email%40example.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href=" https://infinitymura.netlify.app"><img src="https://img.shields.io/badge/Phone-%2B250791767725-green?style=for-the-badge"></a>
+  <a href="https://infinitymura.netlify.app"><img src="https://img.shields.io/badge/Email-your--email%40example.com-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
