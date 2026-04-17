@@ -1,7 +1,10 @@
-<h1 align="center">
-  <span style="color:#00BFFF; font-weight:bold;">Hi 👋, I'm</span> 
-  <span style="color:#FFD700;">Muragijimana Schadrack</span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6A5ACD,100:FF4C60&height=200&section=header&text=Hi%20👋,%20I'm%20Muragijimana%20Schadrack&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Developer;Founder+of+Infinitymura+Digital+Academy;Building+Modern+Web+Applications&center=true&width=550&height=45&color=00BFFF&vCenter=true&size=22">
+</p>
 
 <h3 align="center">
   🚀 <span style="color:#FF4C60;">Full-Stack Software Developer</span> | 
