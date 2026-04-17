@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Muragijimana Schadrack</h1>
-<h3 align="center">🚀 Full-Stack Software Developer | Founder of Infinitymura Digital Academy</h3>
+<h1 align="center">
+  <span style="color:#00BFFF; font-weight:bold;">Hi 👋, I'm</span> 
+  <span style="color:#FFD700;">Muragijimana Schadrack</span>
+</h1>
+
+<h3 align="center">
+  🚀 <span style="color:#FF4C60;">Full-Stack Software Developer</span> | 
+  <span style="color:#38B2AC;">Founder of Infinitymura Digital Academy</span>
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Building+Modern+Web+Apps;React+%7C+Node+%7C+Laravel;Infinitymura+Digital+Academy&center=true&width=500&height=45&color=00BFFF&vCenter=true&size=22">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;React+%7C+Node+%7C+Laravel;Founder+of+Infinitymura+Digital+Academy;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=550&height=45">
